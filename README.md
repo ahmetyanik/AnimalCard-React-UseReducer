@@ -15,7 +15,12 @@ In addition, with the help of a single button, taking all the data from the inpu
 
 ## Preview
 
+### Adding Animal
+
 ![alt text](src/images/animalcard.gif)
+
+### Deleting Animal
+
 ![alt text](src/images/delete.gif)
 
 
