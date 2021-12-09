@@ -16,6 +16,7 @@ In addition, with the help of a single button, taking all the data from the inpu
 ## Preview
 
 ![alt text](src/images/animalcard.gif)
+![alt text](src/images/delete.gif)
 
 
 ## Technologies
