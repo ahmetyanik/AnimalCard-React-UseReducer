@@ -10,7 +10,7 @@
 ## General Info
 
 This project is made with React. 
-Project is an example of using the useReducer from React Hooks.
+The project is an example of using the useReducer from React Hooks.
 In addition, with the help of a single button, taking all the data from the inputs and sending them to the useReducer state is another important aspect of this small application.
 
 ## Preview
