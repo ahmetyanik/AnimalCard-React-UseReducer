@@ -35,4 +35,4 @@ In addition, with the help of a single button, taking all the data from the inpu
 ## Contact
 
 Created by Ahmet Yanik - feel free to contact me for any inquiries!
-ahmetyank4242@gmail.com
+ahmetyanikdev@gmail.com
